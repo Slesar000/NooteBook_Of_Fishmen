@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Andrei/Desktop/Kotlin/app/src/main/res/drawable-anydpi/ic_fish.xml" value="0.153" />
+        <entry key="..\:/Users/Andrei/Desktop/Kotlin/app/src/main/res/drawable-anydpi/ic_fish1.xml" value="0.153" />
+        <entry key="..\:/Users/Andrei/Desktop/Kotlin/app/src/main/res/drawable-anydpi/ic_fish2.xml" value="0.153" />
+        <entry key="..\:/Users/Andrei/Desktop/Kotlin/app/src/main/res/drawable-anydpi/ic_fish3.xml" value="0.153" />
+        <entry key="..\:/Users/Andrei/Desktop/Kotlin/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/Andrei/Desktop/Kotlin/app/src/main/res/layout/app_bar_main.xml" value="0.264" />
+        <entry key="..\:/Users/Andrei/Desktop/Kotlin/app/src/main/res/layout/content_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Andrei/Desktop/Kotlin/app/src/main/res/layout/fragment_home.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/Andrei/Desktop/Kotlin/app/src/main/res/layout/header_main_menu.xml" value="0.264" />
+        <entry key="..\:/Users/Andrei/Desktop/Kotlin/app/src/main/res/layout/item_layout.xml" value="0.44075829383886256" />
+        <entry key="..\:/Users/Andrei/Desktop/Kotlin/app/src/main/res/layout/main_content.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Andrei/Desktop/Kotlin/app/src/main/res/layout/qrqwerqerqer.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Andrei/Desktop/Kotlin/app/src/main/res/menu/draiwer_main_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Andrei/Desktop/Kotlin/app/src/main/res/menu/iyuyui.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Andrei/Desktop/Kotlin/app/src/main/res/menu/nav_menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NooteBook_Of_Fishmen</string>
+    <string name="fish">Рыбы</string>
+    <string name="na">Наживки</string>
+    <string name="sna">Снасти</string>
+    <string name="history">Истории</string>
+
+    <string name="menu_home">Home</string>
+</resources>
